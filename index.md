@@ -1,9 +1,31 @@
-# Neuron Template
+Session:
+- [[Pre-Session Information]]
+- [[Session 1]]
 
-You are viewing a template site that is generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+Locations:
 
-Get started by reading [[README]]#.
+- [[Planet Eugeness]]
+	- [[Continent Allhollow]]
+		- [[Kingdom Gatlin]]
+			- [[Capital Issac]]
+				- [[Orange Rose]]
+				- [[Barter by Billingslee]]
+				- [[Riley's Goods]]
+			- [[Cook-shire]]
+				- [[The Windy Borough]]
 
-Other pages on this zettelkasten:
+Player Characters:
+- [[Constable Gregory Leopold III]]
+- [[Axom]]
+- [[Veril Gunderson]]
+- [[Muninn]]
 
-- [[faq]]#
+NPC:
+- [[Queen Charlotte IV]]
+- [[Dina]]
+- [[Billingslee]]
+- [[Dominic Riley]]
+
+Orginazations:
+- [[Ministry of Agriculture]]
+- [[New Gods]]
