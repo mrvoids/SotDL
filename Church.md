@@ -1,0 +1,1 @@
+Cemetery on the left side of the church. Furniture setup as a barrier. Swarm of [[putrid bees]] cling to the door.

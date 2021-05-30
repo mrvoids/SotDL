@@ -1,0 +1,3 @@
+She is from the town [[The Windy Borough]] she fled the town and was assulted by the bandits. A foul plague is assulting the town this all started when [[putrid bees]] showed up. The started turning the children into [[mutated creatures]]. The town was being assulted by the [[mutated creatures]]. The town barricded itself in the [[Church]] on the word of the traveler [[Daniel]]. He convinced the town to leave the children outside as they could not be sure who was infected. She flead as she was clean. She was then cpatured by the bandits to be sold.
+
+#npc #thewindyborough

@@ -1,0 +1,1 @@
+General goods store in [[Capital Issac]]

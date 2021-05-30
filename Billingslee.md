@@ -1,0 +1,1 @@
+Older runs the store [[Barter by Billingslee]]. Has a Thing for [[Dina]] from the [[Orange Rose]]. [[Veril Gunderson]] pretends to be [[Dina]] and gets two weeks of rations on credit. [[Veril Gunderson]] get money from the writ and pays off the debt.

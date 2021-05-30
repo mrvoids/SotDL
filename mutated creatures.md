@@ -1,0 +1,1 @@
+They look like kids but their body can pop in conture. Appear to work together. Run inhumanly fast and have a black aura. Deformed in in differnt ways one has a distended unhinged jaw. Can attack 1 target with a +5  or 2 targets with +5 and a [[bane]]. As the die the expel [[putrid bees]].
